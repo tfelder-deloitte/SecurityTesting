@@ -1,5 +1,7 @@
 {
   "automerge": true,
   "automergeType": "pr",
+  "dependencyDashboard": true,
+  "dependencyDashboardApproval" true,
 
 }
