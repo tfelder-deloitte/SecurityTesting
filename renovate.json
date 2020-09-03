@@ -2,6 +2,4 @@
   "automerge": true,
   "automergeType": "pr, branch",
   "dependencyDashboard": true,
-  "dependencyDashboardApproval": true
-
 }
