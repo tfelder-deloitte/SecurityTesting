@@ -1,5 +1,5 @@
 {
   "automerge": true,
   "automergeType": "pr, branch",
-  "dependencyDashboard": true,
+  "dependencyDashboard": true
 }
