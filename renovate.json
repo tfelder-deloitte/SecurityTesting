@@ -1,7 +1,7 @@
 {
   "automerge": true,
-  "automergeType": "pr",
+  "automergeType": "pr, branch",
   "dependencyDashboard": true,
-  "dependencyDashboardApproval": true,
+  "dependencyDashboardApproval": true
 
 }
