@@ -51,7 +51,7 @@
         "office-ui-fabric-react": "6.194.0",
         "react": "16.8.5",
         "react-ace": "5.8.0",
-        "react-collapsible": "2.7.0",
+        "react-collapsible": "2.8.0",
         "react-dom": "16.8.5",
         "react-js-pagination": "3.0.2",
         "video.js": "7.6.6"
