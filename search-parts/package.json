@@ -36,7 +36,7 @@
         "@types/react-dom": "16.8.3",
         "@types/webpack-env": "1.13.1",
         "@uifabric/file-type-icons": "7.6.1",
-        "@uifabric/icons": "7.3.38",
+        "@uifabric/icons": "7.5.0",
         "@uifabric/styling": "6.50.7",
         "core-js": "3.3.2",
         "custom-event-polyfill": "1.0.7",
