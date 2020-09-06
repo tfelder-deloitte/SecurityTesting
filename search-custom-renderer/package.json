@@ -18,13 +18,13 @@
         "@microsoft/sp-dialog": "1.11.0",
         "@types/es6-promise": "0.0.33",
         "@types/react": "16.9.49",
-        "@types/react-dom": "16.8.3",
+        "@types/react-dom": "16.9.8",
         "@types/webpack-env": "1.15.2",
         "custom-event-polyfill": "1.0.7",
         "moment": "2.27.0",
         "office-ui-fabric-react": "6.189.2",
         "react": "16.13.1",
-        "react-dom": "16.8.5"
+        "react-dom": "16.13.1"
     },
     "resolutions": {
         "@types/react": "16.9.49"
