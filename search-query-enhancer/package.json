@@ -42,12 +42,12 @@
     "sprintf-js": "1.1.2"
   },
   "devDependencies": {
-    "@types/jest": "22.1.4",
+    "@types/jest": "26.0.14",
     "@types/node": "9.6.58",
     "awesome-typescript-loader": "5.2.1",
     "copy-webpack-plugin": "6.1.1",
     "cp-cli": "2.0.0",
-    "jest": "22.1.4",
+    "jest": "26.4.2",
     "standard-version": "~9.0.0",
     "ts-jest": "26.4.1",
     "tslint": "6.1.3",
