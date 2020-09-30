@@ -19,7 +19,7 @@
         "@types/es6-promise": "0.0.33",
         "@types/react": "16.9.49",
         "@types/react-dom": "16.9.8",
-        "@types/webpack-env": "1.15.2",
+        "@types/webpack-env": "1.15.3",
         "custom-event-polyfill": "1.0.7",
         "moment": "2.29.0",
         "office-ui-fabric-react": "7.143.0",
