@@ -50,7 +50,7 @@
         "moment": "2.29.0",
         "office-ui-fabric-react": "7.144.1",
         "react": "16.13.1",
-        "react-ace": "5.8.0",
+        "react-ace": "9.1.4",
         "react-collapsible": "2.8.0",
         "react-dom": "16.13.1",
         "react-js-pagination": "3.0.3",
