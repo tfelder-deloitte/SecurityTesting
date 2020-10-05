@@ -39,7 +39,7 @@
     "@types/react": "16.9.50",
     "tslib": "2.0.1",
     "gulp": "4.0.2",
-    "@types/chai": "4.2.12",
+    "@types/chai": "4.2.13",
     "@types/mocha": "8.0.3",
     "ajv": "6.12.5"
   }
