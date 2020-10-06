@@ -37,7 +37,7 @@
         "@types/webpack-env": "1.15.3",
         "@uifabric/file-type-icons": "7.6.11",
         "@uifabric/icons": "7.5.8",
-        "@uifabric/styling": "7.16.9",
+        "@uifabric/styling": "7.16.10",
         "core-js": "3.6.5",
         "custom-event-polyfill": "1.0.7",
         "dompurify": "2.1.1",
