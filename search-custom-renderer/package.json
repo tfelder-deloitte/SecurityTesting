@@ -21,7 +21,7 @@
         "@types/react-dom": "16.9.8",
         "@types/webpack-env": "1.15.3",
         "custom-event-polyfill": "1.0.7",
-        "moment": "2.29.0",
+        "moment": "2.29.1",
         "office-ui-fabric-react": "7.144.2",
         "react": "16.13.1",
         "react-dom": "16.13.1"
