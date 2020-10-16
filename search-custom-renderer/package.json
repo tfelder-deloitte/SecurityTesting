@@ -22,7 +22,7 @@
         "@types/webpack-env": "1.15.3",
         "custom-event-polyfill": "1.0.7",
         "moment": "2.29.1",
-        "office-ui-fabric-react": "7.146.2",
+        "office-ui-fabric-react": "7.147.0",
         "react": "16.14.0",
         "react-dom": "16.14.0"
     },
