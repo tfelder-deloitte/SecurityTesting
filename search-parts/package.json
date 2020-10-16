@@ -35,7 +35,7 @@
         "@types/react": "16.9.53",
         "@types/react-dom": "16.9.8",
         "@types/webpack-env": "1.15.3",
-        "@uifabric/file-type-icons": "7.6.13",
+        "@uifabric/file-type-icons": "7.6.14",
         "@uifabric/icons": "7.5.11",
         "@uifabric/styling": "7.16.12",
         "core-js": "3.6.5",
