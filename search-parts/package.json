@@ -40,7 +40,7 @@
         "@uifabric/styling": "7.16.13",
         "core-js": "3.6.5",
         "custom-event-polyfill": "1.0.7",
-        "dompurify": "2.1.1",
+        "dompurify": "2.2.0",
         "flickity": "2.2.1",
         "flickity-imagesloaded": "2.0.0",
         "handlebars": "4.7.6",
