@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "@types/jest": "26.0.15",
-    "@types/node": "14.14.2",
+    "@types/node": "14.14.3",
     "awesome-typescript-loader": "5.2.1",
     "copy-webpack-plugin": "6.2.1",
     "cp-cli": "2.0.0",
