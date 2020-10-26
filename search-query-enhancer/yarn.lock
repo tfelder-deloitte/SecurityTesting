@@ -696,10 +696,10 @@
     "@types/node" "*"
     form-data "^3.0.0"
 
-"@types/node@*", "@types/node@14.14.3":
-  version "14.14.3"
-  resolved "https://registry.npmjs.org/@types/node/-/node-14.14.3.tgz"
-  integrity sha512-33/L34xS7HVUx23e0wOT2V1qPF1IrHgQccdJVm9uXGTB9vFBrrzBtkQymT8VskeKOxjz55MSqMv0xuLq+u98WQ==
+"@types/node@*", "@types/node@14.14.5":
+  version "14.14.5"
+  resolved "https://registry.npmjs.org/@types/node/-/node-14.14.5.tgz"
+  integrity sha512-H5Wn24s/ZOukBmDn03nnGTp18A60ny9AmCwnEcgJiTgSGsCO7k+NWP7zjCCbhlcnVCoI+co52dUAt9GMhOSULw==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
@@ -5992,7 +5992,7 @@ trim-off-newlines@^1.0.0:
 
 ts-jest@26.4.3:
   version "26.4.3"
-  resolved "https://registry.yarnpkg.com/ts-jest/-/ts-jest-26.4.3.tgz#d153a616033e7ec8544b97ddbe2638cbe38d53db"
+  resolved "https://registry.npmjs.org/ts-jest/-/ts-jest-26.4.3.tgz"
   integrity sha512-pFDkOKFGY+nL9v5pkhm+BIFpoAuno96ff7GMnIYr/3L6slFOS365SI0fGEVYx2RKGji5M2elxhWjDMPVcOCdSw==
   dependencies:
     "@jest/create-cache-key-function" "^26.5.0"
