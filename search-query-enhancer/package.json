@@ -38,7 +38,7 @@
     "lodash": "4.17.20",
     "node-fetch": "2.6.1",
     "path": "0.12.7",
-    "sinon": "9.2.0",
+    "sinon": "9.2.1",
     "sprintf-js": "1.1.2"
   },
   "devDependencies": {
