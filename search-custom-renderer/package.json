@@ -17,7 +17,7 @@
         "@microsoft/sp-core-library": "1.11.0",
         "@microsoft/sp-dialog": "1.11.0",
         "@types/es6-promise": "0.0.33",
-        "@types/react": "16.9.53",
+        "@types/react": "16.9.56",
         "@types/react-dom": "16.9.8",
         "@types/webpack-env": "1.15.3",
         "custom-event-polyfill": "1.0.7",
@@ -27,7 +27,7 @@
         "react-dom": "17.0.1"
     },
     "resolutions": {
-        "@types/react": "16.9.53"
+        "@types/react": "16.9.56"
     },
     "devDependencies": {
         "@microsoft/rush-stack-compiler-2.9": "0.14.31",
