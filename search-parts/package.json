@@ -38,7 +38,7 @@
         "@uifabric/file-type-icons": "7.6.15",
         "@uifabric/icons": "7.5.16",
         "@uifabric/styling": "7.16.17",
-        "core-js": "3.6.5",
+        "core-js": "3.7.0",
         "custom-event-polyfill": "1.0.7",
         "dompurify": "2.2.2",
         "flickity": "2.2.1",
