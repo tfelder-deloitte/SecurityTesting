@@ -40,7 +40,7 @@
     "tslib": "2.0.3",
     "gulp": "4.0.2",
     "@types/chai": "4.2.14",
-    "@types/mocha": "8.0.3",
+    "@types/mocha": "8.0.4",
     "ajv": "6.12.6"
   }
 }
