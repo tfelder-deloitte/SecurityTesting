@@ -698,10 +698,10 @@
     "@types/node" "*"
     form-data "^3.0.0"
 
-"@types/node@*", "@types/node@14.14.7":
-  version "14.14.7"
-  resolved "https://registry.npmjs.org/@types/node/-/node-14.14.7.tgz"
-  integrity sha512-Zw1vhUSQZYw+7u5dAwNbIA9TuTotpzY/OF7sJM9FqPOF3SPjKnxrjoTktXDZgUjybf4cWVBP7O8wvKdSaGHweg==
+"@types/node@*", "@types/node@14.14.8":
+  version "14.14.8"
+  resolved "https://registry.npmjs.org/@types/node/-/node-14.14.8.tgz"
+  integrity sha512-z/5Yd59dCKI5kbxauAJgw6dLPzW+TNOItNE00PkpzNwUIEwdj/Lsqwq94H5DdYBX7C13aRA0CY32BK76+neEUA==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
@@ -1879,7 +1879,7 @@ copy-descriptor@^0.1.0:
 
 copy-webpack-plugin@6.3.1:
   version "6.3.1"
-  resolved "https://registry.yarnpkg.com/copy-webpack-plugin/-/copy-webpack-plugin-6.3.1.tgz#ceb6e9c3e4910e63a774fd4a27451156775f6e2a"
+  resolved "https://registry.npmjs.org/copy-webpack-plugin/-/copy-webpack-plugin-6.3.1.tgz"
   integrity sha512-SyIMdP6H3v+zPU+VIhKRsK0ZEF82KZ93JBlKOoIW8SkkuI84FSrHxG+aMTE1u4csbi9PLRqqWTIK+bfJ2xsFuQ==
   dependencies:
     cacache "^15.0.5"
