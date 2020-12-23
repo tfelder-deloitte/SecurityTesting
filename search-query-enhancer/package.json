@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@types/form-data": "2.2.1",
-    "@types/lodash": "4.14.165",
+    "@types/lodash": "4.14.166",
     "@types/node-fetch": "2.5.7",
     "@types/sinon": "9.0.9",
     "@types/sprintf-js": "1.1.2",
