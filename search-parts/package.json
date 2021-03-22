@@ -13,7 +13,7 @@
         "serve": "gulp bundle --custom-serve && webpack-dev-server --mode development --config ./webpack.js --env.env=dev"
     },
     "dependencies": {
-        "@microsoft/decorators": "1.11.0",
+        "@microsoft/decorators": "1.12.0",
         "@microsoft/sp-application-base": "1.11.0",
         "@microsoft/sp-dialog": "1.11.0",
         "@microsoft/sp-loader": "1.11.0",
