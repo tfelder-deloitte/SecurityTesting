@@ -19,7 +19,7 @@
     "@microsoft/sp-lodash-subset": "1.11.0",
     "@microsoft/sp-core-library": "1.11.0",
     "@microsoft/sp-component-base": "1.11.0",
-    "@microsoft/sp-page-context": "1.11.0",
+    "@microsoft/sp-page-context": "1.12.0",
     "office-ui-fabric-react": "7.147.1",
     "@microsoft/sp-http": "1.11.0",
     "typescript": "~4.0.0",
