@@ -14,7 +14,7 @@
   "dependencies": {
     "@types/webpack-env": "1.16.0",
     "@types/es6-promise": "0.0.33",
-    "@microsoft/sp-property-pane": "1.11.0",
+    "@microsoft/sp-property-pane": "1.12.0",
     "@microsoft/sp-webpart-base": "1.11.0",
     "@microsoft/sp-lodash-subset": "1.11.0",
     "@microsoft/sp-core-library": "1.11.0",
