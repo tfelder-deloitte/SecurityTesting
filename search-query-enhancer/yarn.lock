@@ -3390,10 +3390,10 @@ jest-jasmine2@^26.6.3:
     pretty-format "^26.6.2"
     throat "^5.0.0"
 
-jest-junit@12.0.0:
-  version "12.0.0"
-  resolved "https://registry.npmjs.org/jest-junit/-/jest-junit-12.0.0.tgz"
-  integrity sha512-+8K35LlboWiPuCnXSyiid7rFdxNlpCWWM20WEYe6IZH6psfUWKZmSpSRQ5tk0C0cBeDsvsnIzcef5mYhyJsbug==
+jest-junit@12.1.0:
+  version "12.1.0"
+  resolved "https://registry.npmjs.org/jest-junit/-/jest-junit-12.1.0.tgz"
+  integrity sha512-Z45INyzEAqTkCHX/hGCPgVFfZP3hQVgI68CgoEwkCiBuxETsPsniq5yPd8oxbMMHtDCpUlxXzoq7jY35dcuLKw==
   dependencies:
     mkdirp "^1.0.4"
     strip-ansi "^5.2.0"
