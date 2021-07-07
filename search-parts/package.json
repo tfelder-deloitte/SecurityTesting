@@ -14,7 +14,7 @@
     },
     "dependencies": {
         "@microsoft/decorators": "1.11.0",
-        "@microsoft/sp-application-base": "1.11.0",
+        "@microsoft/sp-application-base": "1.12.1",
         "@microsoft/sp-dialog": "1.11.0",
         "@microsoft/sp-loader": "1.11.0",
         "@microsoft/sp-lodash-subset": "1.11.0",
