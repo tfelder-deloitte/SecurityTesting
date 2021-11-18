@@ -42,7 +42,7 @@
     "sprintf-js": "1.1.2"
   },
   "devDependencies": {
-    "@types/jest": "27.0.2",
+    "@types/jest": "27.0.3",
     "@types/node": "16.6.1",
     "awesome-typescript-loader": "5.2.1",
     "copy-webpack-plugin": "10.0.0",
