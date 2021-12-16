@@ -45,7 +45,7 @@
     "@types/jest": "27.0.3",
     "@types/node": "16.6.1",
     "awesome-typescript-loader": "5.2.1",
-    "copy-webpack-plugin": "10.1.0",
+    "copy-webpack-plugin": "10.2.0",
     "cp-cli": "2.0.0",
     "jest": "27.4.5",
     "standard-version": "~9.3.0",
