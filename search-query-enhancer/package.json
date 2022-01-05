@@ -47,7 +47,7 @@
     "awesome-typescript-loader": "5.2.1",
     "copy-webpack-plugin": "10.2.0",
     "cp-cli": "2.0.0",
-    "jest": "27.4.6",
+    "jest": "27.4.7",
     "standard-version": "~9.3.0",
     "ts-jest": "27.1.2",
     "tslint": "6.1.3",
