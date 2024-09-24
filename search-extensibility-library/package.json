@@ -27,7 +27,7 @@
     "react": "17.0.2"
   },
   "devDependencies": {
-    "@microsoft/sp-build-web": "1.12.1",
+    "@microsoft/sp-build-web": "1.20.2",
     "@microsoft/sp-tslint-rules": "1.12.1",
     "@microsoft/sp-module-interfaces": "1.12.1",
     "@microsoft/sp-webpart-workbench": "1.12.1",
