@@ -36,7 +36,7 @@
         "@microsoft/sp-module-interfaces": "1.12.1",
         "@microsoft/sp-tslint-rules": "1.12.1",
         "@microsoft/sp-webpart-workbench": "1.12.1",
-        "@types/chai": "4.2.21",
+        "@types/chai": "4.3.20",
         "@types/mocha": "9.0.0",
         "ajv": "8.6.2",
         "gulp": "4.0.2"
