@@ -15,7 +15,7 @@
     "dependencies": {
         "@microsoft/decorators": "1.12.1",
         "@microsoft/sp-application-base": "1.12.1",
-        "@microsoft/sp-dialog": "1.12.1",
+        "@microsoft/sp-dialog": "1.20.0",
         "@microsoft/sp-loader": "1.12.1",
         "@microsoft/sp-lodash-subset": "1.12.1",
         "@microsoft/sp-office-ui-fabric-core": "1.12.1",
