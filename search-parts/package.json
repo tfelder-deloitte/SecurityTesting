@@ -73,7 +73,7 @@
         "@types/webpack-env": "1.16.2",
         "@webcomponents/custom-elements": "1.5.0",
         "@webcomponents/webcomponentsjs": "2.6.0",
-        "ajv": "8.6.2",
+        "ajv": "8.17.1",
         "css-loader": "6.2.0",
         "css-modules-typescript-loader": "4.0.1",
         "del": "6.0.0",
